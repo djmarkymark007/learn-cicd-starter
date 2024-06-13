@@ -1,5 +1,7 @@
 package main
 
+// this is a test comment
+
 import (
 	"database/sql"
 	"embed"
